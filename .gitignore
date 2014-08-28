@@ -1,10 +1,10 @@
-/deployment
-/releases
-/.settings
-/*.launch
-/.classpath
-/.project
-/*.mpr.lock
+/src/deployment
+/src/releases
+/src/.settings
+/src/*.launch
+/src/.classpath
+/src/.project
+/src/*.mpr.lock
 .mendix-cache
 proxies
 
